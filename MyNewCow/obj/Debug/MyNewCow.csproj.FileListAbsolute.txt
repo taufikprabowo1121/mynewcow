@@ -1,0 +1,6 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\MyNewCow\MyNewCow\bin\Debug\MyNewCow.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\MyNewCow\MyNewCow\bin\Debug\MyNewCow.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\MyNewCow\MyNewCow\bin\Debug\MyNewCow.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\MyNewCow\MyNewCow\obj\Debug\MyNewCow.csprojResolveAssemblyReference.cache
+c:\users\geeksfarm\documents\visual studio 2015\Projects\MyNewCow\MyNewCow\obj\Debug\MyNewCow.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\MyNewCow\MyNewCow\obj\Debug\MyNewCow.pdb
